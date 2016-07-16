@@ -1,0 +1,22 @@
+{
+  "name": "net-track",
+  "version": "1.0.0",
+  "description": "App for Network Maintainance and Monitoring",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashprogram/net-track.git"
+  },
+  "keywords": [
+    "net-track"
+  ],
+  "author": "fp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flashprogram/net-track/issues"
+  },
+  "homepage": "https://github.com/flashprogram/net-track#readme"
+}
